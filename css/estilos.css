@@ -1,0 +1,67 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: auto;
+}
+nav{
+	background-color: #101111;
+	color: white
+}
+.logo{
+	display: flex; 
+	justify-content: flex-start;
+	
+	width: 4em;
+	height: 100%;
+}
+.titulo{
+	display: flex;
+}
+.luna{
+	display: flex;
+}
+.puntos{
+	display: flex;
+	width: 1000px;
+	height: 75px
+}
+
+.compartir{
+
+	display: flex;
+	width: 1000px;
+	height: 75px
+}
+.foto1{
+	background-color: #9FA0A7
+	width:100%;
+}
+.foto2{
+	background-color: #9FA0A7
+	width:100%;
+}
+.foto3{
+	background-color: #9FA0A7
+	width:100%;
+}
+.foto4{
+	background-color: #9FA0A7
+	width:100%;
+}
+.foto5{
+	background-color: #9FA0A7
+	width:100%;
+}
+.foto6{
+	background-color: #9FA0A7
+	width:100%;
+}
+.foto7{
+	background-color: #9FA0A7
+	width:100%;
+}
+.foto8{
+	background-color: #9FA0A7
+	width:100%;
+}
